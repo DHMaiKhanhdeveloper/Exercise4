@@ -12,6 +12,5 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_centerInParent="true"
-        android:text="màn hình 4"
-        android:backgroundTint="@color/purple_700"/>
+        android:text="màn hình 4" />
 </RelativeLayout>
